@@ -1,16 +1,38 @@
 # Flipkart-grid-5.0
 
-Overview
-This project showcases a 5-axis robotic arm designed for picking and placing packages. The system utilizes YOLO (You Only Look Once) for efficient object detection, servo motors for precise movement, and a Raspberry Pi for control and coordination.
+# 5-Axis Robotic Arm 
+## Overview
 
-Features
-5-Axis Movement: The robotic arm is capable of precise 5-axis movement for versatile applications.
+This project features a 5-axis robotic arm designed for picking and placing packages. The system utilizes YOLO (You Only Look Once) for object detection, servo motors for arm movement, and a Raspberry Pi for control.
 
-Object Detection with YOLO: YOLO is employed for real-time object detection, enabling the robotic arm to identify and interact with packages effectively.
+[Demo Video 1](https://youtu.be/s4XxLokjdwU?si=U1ifwhN10mzz8yIT)
+[Demo Video 2](https://youtu.be/EqZEmNHJ6G0?si=k9VO9oSxIY6RigZM)
 
-Raspberry Pi Control: The Raspberry Pi serves as the brain of the system, providing a platform for programming and controlling the robotic arm.
 
-YouTube Links
-Link 1: Robotic Arm in Action
-Link 2: YOLO Object Detection
-Link 3: Raspberry Pi Integration
+## Features
+
+- 5-axis robotic arm for versatile movement.
+- YOLO-based object detection for accurate package identification.
+- Servo motors for precise and controlled arm movements.
+- Raspberry Pi for centralized control and coordination.
+
+## Requirements
+
+- Hardware:
+  - 5-axis robotic arm
+  - Servo motors
+  - Raspberry Pi
+  - (Add any additional hardware requirements)
+
+- Software:
+  - YOLO for object detection
+  - Python
+  - (Add any additional software requirements)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-link>
+   cd 5-axis-robotic-arm
